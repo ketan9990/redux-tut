@@ -7,7 +7,8 @@ function Home(props) {
             <h1>Home Component</h1>
             <div className="cart-wrapper">
                 <div className="img-wrapper item">
-                    <img src="https://www.fdfproject.com/wp-content/uploads/2018/12/iphone-png.png" />
+                    {/* <img src="http//:src/logo/iphone.png" /> */}
+                    <img src="C:\Users\Admin\Desktop\Anil\redux-tut\src\iphone.png" alt='image' />
                 </div>
                 <div className="text-wrapper item">
                     <span>
